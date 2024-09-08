@@ -13,8 +13,8 @@ function Collections() {
                 <li className=" bottom-[20px] py-0  cursor-pointer 
                    transition-all duration-200 relative group">
                    <a href='/'>New Ins</a>
-                   <div className="absolute bottom-0 w-[40px]  bg-black hidden group-hover:block
-                   transition-all h-[2.5px] duration-100 "></div>
+                   <div className="absolute bottom-0 w-[35px]  bg-black font-thin group-hover:block
+                   transition-all h-[3px] duration-100 "></div>
                </li>
                </ul>
         </div>
