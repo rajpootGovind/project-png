@@ -33,7 +33,7 @@ function Beginning() {
               went from a little jewellery shop in Sangli to a renowned design brand in the jewellery industry.</p>
               <button className='h-[40px] w-[140px] font-normal text-gray-900 tracking-widest text-xs border border-black bg-white hover:text-purple-800'>READ MORE</button>
             </div>
-            <img alt="img" src="https://www.bing.com/images/blob?bcid=S9.vDdhjo3sHolPG834t55HclLc......zQ"
+            <img alt="img" src="https://indianjeweller.in/public/assets/uploads/news/1691473378_95b0aa908dab86b6e2a8.jpg"
             className='h-[330px] w-[520px] relative top-[40px] hover:scale-110 duration-1000'
             ></img>
           </div>
