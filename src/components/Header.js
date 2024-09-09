@@ -67,7 +67,7 @@ function Header() {
                    transition-all duration-200 relative group">
                    <a href='/'>All Jewellery</a>
                    <div className="absolute bottom-0 w-full  bg-fuchsia-800 hidden group-hover:block
-                   transition-all h-[2.5px] duration-100 "></div>
+                   transition-all h-[2.5px] duration-1000 delay-200 "></div>
                </li>
                 <li className=" bottom-[20px] py-4  cursor-pointer 
                    transition-all duration-200 relative group">

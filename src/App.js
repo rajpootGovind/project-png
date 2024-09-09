@@ -9,6 +9,9 @@ import Logo from './components/Logo';
 import ShopCategory from './components/ShopCategory';
 import ShopCollection from './components/ShopCollection';
 import Beginning from './components/Beginning';
+import StoreLocator from './components/StoreLocator';
+import Signup from './components/Signup';
+import Footer from './components/Footer';
 
 
 
@@ -27,7 +30,11 @@ function App() {
      <ShopCollection></ShopCollection>
      </div>
      <Beginning></Beginning>
+     <StoreLocator></StoreLocator>
+     <Signup></Signup>
+     <Footer></Footer>
     </div>
+   
   );
 }
 
